@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# Hi, I'm Aadish 👋
+## Hi, I'm Aadish 👋
 
 I build automation systems, data-driven solutions, and product prototypes that solve real problems — fast.
 
