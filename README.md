@@ -48,5 +48,5 @@ I also experiment with AI agents, product workflows, and automation frameworks (
 > If you're building something exciting — let's talk. I enjoy contributing where there’s speed, ownership, and impact.
 
 📫 **Reach me on:**  
-**Email:** *(shared in resume)*  
-**LinkedIn:** *(DM me — actively networking & exploring opportunities)*  
+**Email:** *2003aadishjain@gmail.com*  
+**LinkedIn:** *https://www.linkedin.com/in/aadish-jain-aa13a4219/*  
